@@ -4,7 +4,7 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=Img+data+BY+UDMODZ" alt="">
 </p>
-    <p align="center"><img src="https://profile-counter.glitch.me/{UDMODZ}/count.svg" alt="UDMODZ PhotoCrack :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{UDMODZ/photocrack}/count.svg" alt="UDMODZ PhotoCrack :: Visitor's Count" /></p>
 <p align="left">° <a href="https://github.com/UDMODZofc/PhotoCrack/edit/main/README.md#support-udmodz-">Stay updated with us</a></p>
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
