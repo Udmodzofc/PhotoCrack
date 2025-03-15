@@ -19,9 +19,9 @@ _Installation/Update_
 ```
       $ Pkg install git
 
-      $git clone https://github.com/Udmodzofc/PhotoCrack
+      $ git clone https://github.com/Udmodzofc/PhotoCrack
 
-      $ cd 
+      $ cd PhotoCrack
 
       $ bash install.sh
 
