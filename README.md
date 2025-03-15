@@ -1,11 +1,5 @@
 # PhotoCrack :- _A Bash BASED Script_
-*A termilux based third party script for data collection.*
-
-
-
-<p align="center">
-<img src="https://i.ibb.co/5xzWmSxn/20250224-094454.png" width="300" height="300"/>
-</p>
+*A termux based third party script for data collection
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=Img+data+BY+UDMODZ" alt="">
