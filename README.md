@@ -17,7 +17,7 @@ _Installation/Update_
 <p align="left">° Run 1 by one </p>
 
 ```
-      $ Pkg install git
+      $ pkg install git
 
       $ git clone https://github.com/Udmodzofc/PhotoCrack
 
