@@ -4,14 +4,14 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/5xzWmSxn/20250224-094453.png" width="300" height="300"/>
+<img src="https://i.ibb.co/5xzWmSxn/20250224-094454.png" width="300" height="300"/>
 </p>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=Img+data+BY+UDMODZ" alt="">
 </p>
     <p align="center"><img src="https://profile-counter.glitch.me/{UDMODZ}/count.svg" alt="UDMODZ PhotoCrack :: Visitor's Count" /></p>
-<p align="left">° <a href="https://github.com/UDMODZ/wajacker/edit/main/README.md#support-udmodz-">Stay updated with us</a></p>
+<p align="left">° <a href="https://github.com/UDMODZofc/PhotoCrack/edit/main/README.md#support-udmodz-">Stay updated with us</a></p>
 <p align="left">° Dont forget to leave a 🌟 star</p>
 
 
@@ -23,6 +23,12 @@ _Installation/Update_
 <p align="left">° Run 1 by one </p>
 
 ```
+      $ Pkg install git
+
+      $git clone https://github.com/Udmodzofc/PhotoCrack
+
+      $ cd 
+
       $ bash install.sh
 
 ```
@@ -33,6 +39,7 @@ _Start_
 
 ```
       $ bash photocrack.sh
+
 ```
 
 
